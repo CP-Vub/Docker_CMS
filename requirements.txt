@@ -1,0 +1,10 @@
+scipy
+numpy
+pyfftw
+datetime
+pandas
+progressbar2
+uuid
+cassandra-driver
+matplotlib
+
